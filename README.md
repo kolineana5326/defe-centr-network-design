@@ -46,4 +46,4 @@ Centralized DHCP servers located in the Data Center automatically assign IP addr
 2.  Open the file `military_hq_network.pkt` within this repository.
 
 ---
-**Developed by:** [Your Name]
+**Developed by:** KOLINEANA
