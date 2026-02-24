@@ -1,4 +1,5 @@
 # National Defense Command and Operations Center Network Architecture Design
+
 ## Project Overview
 This project simulates the network design for a new three-story National Defense Command and Operations Center. The goal was to build a secure, and redundant network infrastructure from scratch to support 500 personnel.
 
@@ -41,5 +42,6 @@ Centralized DHCP servers located in the Data Center automatically assign IP addr
 ## How to View
 1.  Download [Cisco Packet Tracer](https://www.netacad.com/).
 2.  Open the file `defence&op_center.pkt` within this repository.
+---
 ---
 **Developed by:** KOLINEANA
